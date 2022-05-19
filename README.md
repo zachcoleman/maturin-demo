@@ -41,6 +41,7 @@ fn maturin_demo(_py: Python, m: &PyModule) -> PyResult<()> {
 maturin develop 
 ```
 Adding the `-r` flag like this: `maturin develop -r` will compile with optimizations (slower compile, but faster runtime). 
+
 _Note: this will automatically install the package into the target environment_
 
 ### Use new Python extension
