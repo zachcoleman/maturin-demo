@@ -51,7 +51,7 @@ sum_as_string(1, 2)
 
 ### Let's add some crates
 
-<img src="./assets/crates.png">
+<img src="./assets/crates.png" width=50%>
 
 These crates will allow us to interact with numpy arrays and/or interact with them in Rust equivalents. 
 
@@ -81,4 +81,4 @@ fn sum(_py: Python<'_>, arr: &PyArrayDyn<f64>) -> f64 {
 
 Yes.
 
-<img src="./assets/times.png">
+<img src="./assets/times.png" width=50%>
