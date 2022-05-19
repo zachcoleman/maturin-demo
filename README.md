@@ -89,6 +89,6 @@ Yes.
 ```shell
 maturin build -r -i=/home/ubuntu/maturin-demo/.venv/bin/python
 ```
-_Note: `_i` is the target interpreter_
+_Note: `-i` is the target interpreter_
 
 The .whl can be found in `./target/wheels/`
