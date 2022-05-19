@@ -53,7 +53,7 @@ sum_as_string(1, 2)
 
 <img src="./assets/crates.png">
 
-These crates will allow us to interact with numpy arrays and/or copy them into Rust equivalents. 
+These crates will allow us to interact with numpy arrays and/or interact with them in Rust equivalents. 
 
 ### Creating an equivalent `sum`
 
